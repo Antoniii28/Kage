@@ -12,7 +12,16 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - `canon/`: hechos confirmados del mundo y la historia.
 - `personajes/`: fichas y arcos de personajes.
 - `trama/`: estructura general, cronología, arcos y misterios.
-- [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.\n- [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de los primeros capítulos mientras se preparan los manuscritos completos.\n- [Capítulo 5 — El lugar de la fotografía](novela/capitulo-05-el-lugar-de-la-fotografia.md): borrador narrativo actual.\n- `novela/`: borradores y capítulos de la novela.
+- [Prólogo — La máscara rota](novela/prologo-la-mascara-rota.md).
+- [Capítulo 1 — Los niños sin rostro](novela/capitulo-01-los-ninos-sin-rostro.md).
+- [Capítulo 2 — Un día cualquiera](novela/capitulo-02-un-dia-cualquiera.md).
+- [Capítulo 3 — Una fotografía incompleta](novela/capitulo-03-una-fotografia-incompleta.md).
+- [Capítulo 4 — Fuera de la rutina](novela/capitulo-04-fuera-de-la-rutina.md).
+- [Capítulo 5 — El lugar de la fotografía](novela/capitulo-05-el-lugar-de-la-fotografia.md): borrador narrativo actual.
+- [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.
+- [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad mientras se revisan los manuscritos.
+
+- `novela/`: borradores y capítulos de la novela.
 - `manhwa/`: guiones de adaptación, episodios y notas visuales.
 - `referencias/`: diseños, referencias visuales y documentos de apoyo.
 
