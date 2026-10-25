@@ -1,152 +1,316 @@
 # KAGE
 ## Capítulo 1 — Los niños sin rostro
 
-El bosque parecía conocido.
+Lo primero que escuchó fue una risa.
 
-Itsuki no sabía por qué. Nunca había estado allí —o, al menos, no recordaba haberlo hecho—, pero cada árbol, cada piedra cubierta de musgo y cada curva del sendero le provocaban una familiaridad imposible de explicar.
+Una risa infantil, distante y alegre, que atravesó la oscuridad como un rayo de luz.
 
-La luz descendía entre las copas en haces pálidos. El aire olía a tierra húmeda y hojas viejas. No se oían coches, voces de adultos ni ningún otro sonido que pudiera situar aquel lugar en el mundo.
+Después llegó el viento.
 
-Solo estaban el bosque y los niños.
+Itsuki abrió los ojos.
 
-Varios jugaban unos pasos más adelante. Corrían alrededor de las raíces, se perseguían y se llamaban con voces que llegaban hasta Itsuki como si atravesaran una pared de agua. Había algo extraño en ellos. Cada vez que intentaba distinguir sus rostros, los rasgos se emborronaban, como si una niebla diminuta cubriera sus facciones.
+Se encontraba en medio de un bosque.
 
-Itsuki parpadeó y volvió a mirar.
+Los árboles se alzaban a su alrededor, tan altos que sus copas ocultaban el cielo. La hierba estaba húmeda bajo sus pies descalzos y una fina capa de niebla se extendía entre los troncos. A lo lejos, el agua corría sobre las piedras de un arroyo.
 
-Seguían sin tener un rostro claro.
+Todo parecía tranquilo.
 
-—¿Quiénes sois? —preguntó.
+Demasiado tranquilo.
 
-Los niños no parecieron escucharlo. Uno pasó corriendo a su lado, tan cerca que Itsuki sintió el movimiento del aire, pero no pudo distinguir sus ojos ni su expresión.
+Itsuki bajó la mirada hacia sus manos. Eran pequeñas. Sus brazos, delgados. Llevaba ropa que no recordaba haber visto antes, y aun así no sintió sorpresa.
 
-Cerca del tronco de un árbol, una niña permanecía apartada del resto. Llevaba una cinta azul en el cabello. A diferencia de los demás, no corría ni jugaba. Parecía esperar algo.
+En aquel lugar, nada le parecía extraño.
 
-Itsuki se acercó a ella.
+Como si hubiera estado allí muchas veces.
 
-—Hola.
+Como si hubiera regresado a casa.
 
-La niña volvió la cabeza.
+—¡Itsuki!
 
-Por un instante, él creyó que podría verle la cara. Sin embargo, los detalles se deshicieron antes de que pudiera reconocerlos. Solo quedó la cinta azul, nítida entre aquella imagen borrosa.
+La voz llegó desde algún punto del bosque.
 
-—¿Nos conocemos? —preguntó Itsuki.
+Él levantó la cabeza.
 
-Ella no respondió.
+—¡Espera!
 
-Cuando él dio otro paso, la niña se alejó. No corrió, pero siempre mantuvo la misma distancia, como si el sendero se alargara entre ambos.
+No sabía quién lo había llamado, pero reconoció la sensación que le produjo aquella voz. Algo cálido y familiar se removió en su pecho.
 
-—Espera.
+Echó a correr.
 
-La niña siguió caminando.
+Las ramas rozaban sus brazos mientras avanzaba entre los árboles. La niebla se apartaba a su paso y las risas se volvían cada vez más claras.
 
-Itsuki estaba a punto de ir tras ella cuando los demás niños dejaron de jugar.
+Entonces los vio.
 
-Uno por uno, se volvieron hacia el interior del bosque.
+Había niños reunidos al otro lado de un pequeño claro.
 
-El cambio fue tan repentino que Itsuki también se quedó quieto. Un momento antes, el lugar había estado lleno de movimiento. Ahora, hasta las hojas parecían inmóviles.
+Uno estaba sentado sobre una roca. Dos corrían alrededor de un árbol caído. Otros discutían por algo que Itsuki no alcanzaba a escuchar.
 
-—¿Qué pasa? —preguntó.
+Eran varios.
 
-Nadie contestó.
+Quizá seis.
 
-Entonces vio el árbol.
+Quizá siete.
 
-Se alzaba más allá del sendero, enorme, con un tronco tan ancho que varios adultos no habrían podido rodearlo con los brazos. Sus raíces sobresalían de la tierra como dedos antiguos y se hundían entre las piedras. Había marcas talladas en la corteza: líneas, curvas y símbolos desgastados que Itsuki no sabía leer.
+No podía estar seguro.
 
-A pesar de no entenderlos, sintió que debía acercarse.
+—¡Ya era hora! —exclamó uno de ellos.
 
-Avanzó unos pasos. La niña de la cinta azul se encontraba ahora junto al árbol. No miraba a Itsuki; tenía la atención puesta en algún punto entre los troncos.
+Itsuki quiso responder, pero las palabras no llegaron a salir de su boca.
 
-Un crujido sonó a lo lejos.
+Había algo raro en sus rostros.
 
-Después, otro.
+No estaban ocultos por sombras ni cubiertos por máscaras. Sus cabezas, sus cabellos y sus expresiones parecían completamente normales desde lejos.
 
-No eran pasos normales. Cada sonido parecía demasiado pesado para proceder de una persona, pero llegaba desde una dirección distinta, como si algo se desplazara entre los árboles sin seguir un camino.
+Pero, cuando intentaba distinguir sus facciones, estas se volvían borrosas.
 
-Los niños no se movieron.
+No conseguía reconocer unos ojos, una nariz o una sonrisa.
 
-—¿Hay alguien ahí? —llamó Itsuki.
+Cuanto más se esforzaba, menos podía ver.
 
-La niebla comenzó a deslizarse entre los troncos.
+—¿Qué te pasa? —preguntó una niña.
 
-Al principio solo cubrió las raíces. Luego se elevó hasta las rodillas de los niños y se extendió por el sendero. Una silueta apareció detrás de ella.
+Itsuki la miró.
 
-Era gigantesca.
+Por un instante, creyó distinguir un lazo en su cabello.
 
-Itsuki no pudo determinar si tenía forma humana o animal. La figura parecía demasiado alta para ser una persona y demasiado irregular para pertenecer a una criatura que conociera. Cada vez que intentaba fijar la mirada en ella, sus contornos cambiaban, como si el bosque se negara a mostrarle su verdadera forma.
+Azul, quizá.
 
-Uno de los niños retrocedió.
+Después, la imagen se deshizo como tinta bajo la lluvia.
 
-Y desapareció.
+—Yo… —comenzó.
 
-No gritó. No hubo un destello ni un movimiento brusco. Simplemente, un instante estaba allí y al siguiente solo quedaba niebla en el lugar que había ocupado.
+No sabía qué iba a decir.
 
-—¿Adónde ha ido? —preguntó Itsuki.
+Uno de los niños se acercó y le tendió la mano.
 
-Nadie le respondió.
+—Ven. Tenemos que enseñarte algo.
 
-Otro niño desapareció. Luego un tercero.
+Itsuki la aceptó.
 
-Itsuki corrió hacia ellos, pero el sendero se alargó bajo sus pies. Los árboles parecían alejarse a cada paso y las voces de los niños se volvían más débiles.
+El niño tiró de él hacia el extremo del claro, donde las raíces de un árbol gigantesco sobresalían de la tierra. Su tronco era tan ancho que ocho niños no habrían podido rodearlo tomados de las manos.
 
-—¡Esperad! ¡No os vayáis!
+En la corteza había marcas antiguas.
 
-La niña de la cinta azul seguía junto al árbol.
+Algunas parecían nombres.
 
-Por un instante, Itsuki creyó que ella sí lo estaba mirando. La postura de la niña cambió ligeramente, como si quisiera acercarse, pero no llegó a dar un paso.
+Otras, simples líneas trazadas por manos pequeñas.
 
-—¡Ven conmigo! —gritó él.
+Itsuki se detuvo frente al árbol.
 
-La niña levantó una mano.
+Una extraña tristeza lo invadió.
 
-La niebla la cubrió antes de que pudiera responder.
+No comprendía por qué, pero sentía que aquel lugar era importante. Mucho más importante que cualquier otro sitio del bosque.
 
-Itsuki se detuvo frente al árbol. El bosque entero parecía contener la respiración. Las marcas talladas en la corteza se oscurecieron, aunque no había cambiado la luz.
+—¿Te acuerdas? —preguntó una voz a su espalda.
 
-Entonces escuchó una voz.
+Itsuki se volvió.
 
-—No te olvides de nosotros.
+Todos los niños lo observaban.
 
-No supo quién había hablado. La voz parecía proceder de todas partes y, al mismo tiempo, de un lugar muy lejano.
+O al menos eso creyó.
 
-Itsuki intentó volverse, pero una sombra se extendió por el suelo y alcanzó sus pies. Quiso retroceder. Sus piernas no respondieron.
+Sus rostros seguían siendo indistinguibles, pero ahora ninguno se reía.
 
-La silueta gigantesca avanzó entre la niebla.
+—¿Acordarme de qué?
 
-Itsuki no consiguió verle el rostro.
+Nadie respondió.
 
-El árbol, las marcas y el último rastro de la cinta azul fueron lo último que distinguió antes de que el bosque desapareciera.
+El viento dejó de soplar.
 
-***
+El arroyo enmudeció.
 
-Itsuki despertó de golpe.
+Y, desde algún lugar más allá de los árboles, llegó un sonido que no pertenecía al bosque.
 
-Se incorporó en la cama, respirando deprisa. Durante unos segundos no reconoció su habitación. La luz de la mañana se filtraba por las cortinas y el sonido distante de la calle le recordó dónde estaba.
+Un crujido profundo.
 
-Se pasó una mano por la cara y trató de tranquilizarse.
+Como madera antigua partiéndose bajo un peso imposible.
 
-Otra vez aquel bosque.
+Los niños se quedaron inmóviles.
 
-No era la primera vez que soñaba con él. Sin embargo, nunca lograba recordar cómo llegaba allí ni por qué los niños parecían necesitar algo de él. Los detalles se desvanecían poco después de despertar, dejando apenas imágenes sueltas y una sensación difícil de soportar.
+—¿Qué fue eso? —preguntó Itsuki.
 
-Lo más inquietante no era la sombra.
+La niña del lazo azul retrocedió un paso.
 
-Era la impresión de haber olvidado algo importante. Algo que no debería haber perdido.
+—No deberíamos estar aquí.
 
-Itsuki miró hacia la ventana. Afuera, la mañana seguía su curso. Un vecino caminaba por la acera y un vehículo pasó al final de la calle. Todo parecía normal.
+Otra voz, más pequeña, susurró:
 
-Pero la voz seguía resonando en su memoria.
+—Ya nos encontró.
 
-*No te olvides de nosotros.*
+Itsuki miró hacia los árboles.
 
-No sabía quiénes eran aquellos niños. No sabía quién era la niña de la cinta azul ni por qué el árbol le provocaba aquella sensación de reconocimiento.
+Al principio no vio nada.
 
-Solo sabía que, al despertar, sentía que había perdido algo que alguna vez le había pertenecido.
+Solo troncos, niebla y oscuridad.
 
-Y no podía recordar qué era.
+Entonces una sombra se deslizó entre dos árboles.
 
----
+Era demasiado grande para ser un animal común. Su contorno se deformaba cada vez que intentaba mirarlo directamente, como si el propio bosque se negara a mostrarle qué se ocultaba allí.
 
-## Nota editorial
+Algo se movió dentro de la niebla.
 
-Este capítulo presenta el sueño recurrente de Itsuki como un misterio, no como un recuerdo confirmado. La identidad de los niños, la niña de la cinta azul, el árbol y la sombra siguen sin explicarse.
+Los niños comenzaron a retroceder.
+
+—¡Itsuki, corre! —gritó alguien.
+
+Pero nadie se movió.
+
+La sombra avanzó.
+
+Un árbol crujió a lo lejos.
+
+Después otro.
+
+Las figuras infantiles empezaron a desaparecer entre la niebla, una tras otra, sin que Itsuki comprendiera adónde iban. No escuchó pasos alejándose. No vio siluetas corriendo.
+
+Simplemente, dejaron de estar allí.
+
+—¡Esperen!
+
+Itsuki corrió hacia el lugar donde había visto por última vez a la niña del lazo azul.
+
+No había nadie.
+
+Se volvió hacia el árbol gigantesco.
+
+Vacío.
+
+Miró entre los troncos, buscando las pequeñas figuras que hacía unos instantes llenaban el claro.
+
+—¡No se vayan!
+
+Su voz se quebró.
+
+Una mano pequeña apareció entre la niebla.
+
+Alguien estaba allí.
+
+Itsuki corrió hacia ella.
+
+Pero, con cada paso, la distancia aumentaba.
+
+El árbol se alejaba. El claro se estiraba frente a él. Las ramas parecían multiplicarse, cerrándole el camino.
+
+—¡Itsuki!
+
+Esta vez la voz sonó detrás de él.
+
+Se detuvo.
+
+Era una voz distinta. Más débil.
+
+Una voz que, de alguna manera, le dolía reconocer.
+
+—No te olvides…
+
+La niebla cubrió el claro.
+
+Itsuki intentó girarse, pero sus piernas ya no respondían.
+
+—Por favor…
+
+El crujido volvió a resonar.
+
+Mucho más cerca.
+
+La sombra emergió detrás de los árboles.
+
+Y durante un instante, Itsuki sintió que aquello no estaba buscando a los niños.
+
+Lo estaba buscando a él.
+
+Algo se inclinó sobre el bosque.
+
+El mundo perdió sus colores.
+
+La última voz llegó desde una distancia imposible.
+
+—…de nosotros.
+
+Itsuki abrió la boca para responder.
+
+Pero no recordó qué quería decir.
+
+Y despertó.
+
+El sonido de la lluvia golpeando una ventana llenaba la habitación.
+
+Itsuki permaneció inmóvil, mirando el techo.
+
+Respiraba deprisa. Tenía la garganta seca y una sensación desagradable en el pecho, como si acabara de perder algo que ni siquiera sabía que poseía.
+
+Durante unos segundos no reconoció la habitación.
+
+Después distinguió el escritorio, las cortinas y la ropa doblada sobre una silla.
+
+Su habitación.
+
+Su casa.
+
+Todo estaba en su sitio.
+
+Se incorporó lentamente y se pasó una mano por el cabello.
+
+—Otra vez… —murmuró.
+
+No era la primera vez que soñaba con aquel bosque.
+
+O eso creía.
+
+Cuando intentaba recordar otros sueños parecidos, solo encontraba fragmentos: árboles demasiado altos, voces infantiles y una sensación de urgencia que nunca lograba explicar.
+
+Esta vez, sin embargo, había algo más.
+
+Una palabra.
+
+Un lugar.
+
+Una promesa, quizá.
+
+Intentó aferrarse a la imagen del árbol gigantesco, pero el recuerdo comenzó a desvanecerse. Primero perdió los detalles de la corteza. Después, la forma de las ramas. Por último, olvidó dónde había estado el claro.
+
+Solo quedó una sensación.
+
+La certeza de que había conocido a aquellos niños.
+
+Y de que, en algún momento, los había perdido.
+
+Itsuki apretó los dedos contra la sábana.
+
+—¿Quiénes eran…?
+
+No obtuvo respuesta.
+
+La lluvia continuó golpeando la ventana.
+
+Al girar la cabeza hacia el reloj, descubrió que aún faltaba tiempo para que amaneciera. Podía volver a dormir, pero la idea de cerrar los ojos le resultó extrañamente desagradable.
+
+Se levantó y caminó hasta la ventana.
+
+El cristal estaba cubierto de pequeñas gotas. Más allá, las calles permanecían vacías bajo el cielo gris.
+
+El mundo parecía completamente normal.
+
+Aun así, no podía sacarse de la cabeza aquellas últimas palabras.
+
+No te olvides de nosotros.
+
+Itsuki apoyó una mano contra el cristal frío.
+
+—Yo no los conozco —susurró.
+
+Lo dijo como si necesitara convencerse.
+
+Y, por un instante, estuvo seguro de que era verdad.
+
+Entonces sintió una punzada inexplicable de tristeza.
+
+No sabía por quién.
+
+No sabía por qué.
+
+Solo sabía que, en algún lugar de su memoria, había una puerta que no podía abrir.
+
+Y que algo al otro lado acababa de llamarlo.
+
+Fin del capítulo 1.
