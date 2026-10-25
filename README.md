@@ -12,7 +12,7 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - `canon/`: hechos confirmados del mundo y la historia.
 - `personajes/`: fichas y arcos de personajes.
 - `trama/`: estructura general, cronología, arcos y misterios.
-- `novela/`: borradores y capítulos aprobados.
+- [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.\n- [Capítulo 5 — El lugar de la fotografía](novela/capitulo-05-el-lugar-de-la-fotografia.md): borrador narrativo actual.\n- `novela/`: borradores y capítulos de la novela.
 - `manhwa/`: guiones de adaptación, episodios y notas visuales.
 - `referencias/`: diseños, referencias visuales y documentos de apoyo.
 
