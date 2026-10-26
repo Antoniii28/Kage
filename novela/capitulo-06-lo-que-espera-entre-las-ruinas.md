@@ -659,4 +659,4 @@ Y, en algún lugar, alguien había empezado a vigilarlo.
 
 ## Nota editorial
 
-Este capítulo queda como borrador narrativo. La identidad de la joven, la naturaleza de la voz, el significado del símbolo y la relación del amuleto con el santuario siguen sin confirmarse. Los mensajes y la figura observada al final abren nuevas preguntas para el capítulo 7, sin resolver todavía el misterio central.
+Este capítulo queda como borrador narrativo. La identidad de la joven, la naturaleza de la voz, el significado del símbolo y la relación del amuleto con el santuario siguen sin confirmarse. El capítulo 7 continúa estas preguntas mediante una investigación documental. La identidad de quienes envían los mensajes y el sentido del «registro de la puerta» siguen sin confirmarse.
