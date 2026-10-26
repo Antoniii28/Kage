@@ -1,170 +1,360 @@
 # KAGE
 ## Capítulo 4 — Fuera de la rutina
 
-El sábado por la tarde, Touma había organizado una salida con un entusiasmo que Itsuki consideraba desproporcionado para alguien que solo había propuesto ir al centro comercial.
+—Tengo una pregunta importante.
 
-—Necesitamos despejarnos —declaró Touma cuando se reunieron frente a la estación—. Un día sin clases, sin trabajos y sin hablar de exámenes.
+Itsuki miró a Touma, que caminaba a su lado con una bolsa de patatas fritas en la mano.
 
-Itsuki miró a su amigo.
+—Si vas a preguntarme si he estudiado, la respuesta es no.
 
-—Llevas diez minutos hablando de exámenes.
+—¿Por qué asumes que siempre estoy pensando en tus estudios?
 
-—Estoy cerrando ese capítulo de mi vida.
+—Porque es lo único que te permite sentirte superior a mí.
 
-Hiyori se rio mientras los demás se acercaban. Aoi llegó poco después, con la cinta azul en el cabello y una pequeña bolsa colgada del hombro.
+—¡Exactamente! Por fin reconoces mi talento.
 
-—¿Ya empezaron a discutir? —preguntó.
+Itsuki negó con la cabeza y siguió caminando.
 
-—No discutimos —respondió Touma—. Itsuki está cuestionando mi liderazgo.
+Habían quedado frente a la estación para pasar la tarde juntos. Touma había propuesto ir al centro comercial, Hiyori había elegido un restaurante para comer algo después y el resto del grupo había aceptado con la condición de que nadie los obligara a entrar en tiendas de ropa durante horas.
 
-—Tu liderazgo consiste en elegir dónde comer —dijo Itsuki.
+Aoi llegó unos minutos más tarde.
 
-—Y es una responsabilidad enorme.
+—Perdón por hacerlos esperar.
 
-El grupo entró al centro comercial entre conversaciones y bromas. Durante un rato recorrieron las tiendas sin un plan concreto. Hiyori se detuvo frente a un escaparate; Touma empezó a defender la idea de comprar algo que ninguno necesitaba y Itsuki se limitó a señalar, con calma, todas las razones por las que el plan acabaría saliendo mal.
+—Llegas justo a tiempo —dijo Hiyori—. Touma todavía no ha conseguido convencernos de que su idea de ir a una tienda de videojuegos es una actividad cultural.
 
-Al final, Touma vio un salón recreativo y cambió de objetivo sin el menor remordimiento.
+—¡Los videojuegos son cultura!
 
-—Una carrera. El perdedor invita las bebidas.
+—Entonces puedes hacer un trabajo universitario sobre ellos —respondió Itsuki.
 
-—¿Y si tú pierdes? —preguntó Hiyori.
+Touma lo señaló con una patata.
 
-—Entonces será una lección de humildad para todos.
+—Tú no vuelves a hablar hasta que termine el semestre.
 
-Unos minutos después, Touma perdió.
+Aoi soltó una risa y se colocó junto a Hiyori.
 
-Aoi, que había elegido una máquina junto a él, terminó la carrera con una ventaja considerable. Touma se quedó mirando la pantalla como si esperara que el resultado cambiara por sí solo.
+—¿Adónde vamos primero?
 
-—La máquina está trucada.
+—A donde no esté Itsuki —contestó Touma—. Me está faltando al respeto.
 
-Aoi dejó el mando en su sitio.
+—Puedo irme a casa si quieres.
 
-—Claro. La máquina te tiene manía.
+—¡No! ¿Quién va a pagar la mitad de la comida?
 
-Itsuki soltó una risa breve.
+—Ah, así que esa es mi función.
 
-—No te preocupes. Puedes culpar al asiento la próxima vez.
+—Eres fundamental para el equipo.
 
-—Me alegra que mis amigos me apoyen tanto —replicó Touma—. No olvidaré esta traición.
+Itsuki suspiró, aunque terminó sonriendo.
 
-—Eso espero —dijo Hiyori—. Sería triste que olvidaras también quién ganó.
+La tarde apenas comenzaba y Touma ya estaba siendo Touma.
 
-Las bromas continuaron mientras el grupo cambiaba de juego. La tensión de la semana se fue disipando entre pequeñas competencias, comentarios absurdos y decisiones improvisadas sobre qué hacer después.
+El primer destino fue una sala de recreativos en el segundo piso del centro comercial.
 
-Itsuki no era el más ruidoso del grupo, pero tampoco se mantenía al margen. Cuando tenía algo que decir, lo decía; y, de vez en cuando, su humor seco provocaba más risas que las ocurrencias de Touma.
+Las luces de las máquinas parpadeaban por todo el local. Sonaban melodías electrónicas, efectos de videojuegos y las celebraciones de quienes conseguían una puntuación alta.
 
-Un rato después, se quedaron cerca de una máquina musical. Aoi eligió una canción y completó la secuencia con precisión. Al terminar, se apartó para dejarle sitio.
+Touma se dirigió directamente a una máquina de carreras.
 
-—¿Quieres intentarlo?
+—¡Itsuki! ¡Una partida!
 
-Itsuki miró la pantalla.
+—No.
 
-—No soy muy bueno.
+—¿Tienes miedo?
 
-—Eso no responde a mi pregunta.
+—Tengo sentido común.
 
-Él aceptó. Falló varios pasos al principio, incapaz de seguir el ritmo con la misma seguridad que Aoi. Ella no se burló; le explicó cuándo debía anticipar el cambio y le señaló el patrón que se repetía en la secuencia.
+—Eso suena exactamente a algo que diría alguien con miedo.
 
-En el segundo intento, Itsuki consiguió terminar la canción. Su puntuación quedó muy por debajo de la de ella, pero al menos no perdió contra la máquina de forma humillante.
+Itsuki dejó su mochila junto a las de los demás y se sentó en la máquina de al lado.
 
-—Has mejorado —dijo Aoi.
+—Cuando pierdas, no llores.
 
-—Eso es una forma amable de decir que al principio era terrible.
+Cinco minutos después, Touma estaba inclinado sobre el volante, intentando recuperar una posición que había perdido en la última curva.
 
-—No iba a decirlo así.
+Itsuki cruzó la línea de meta.
 
-—Pero lo pensaste.
+PRIMER PUESTO.
+
+—¡¿QUÉ?! —Touma se levantó—. ¡Tú ni siquiera juegas!
+
+—He jugado alguna vez.
+
+—¿Cuándo?
+
+—Cuando tú estabas ocupado explicándome que los videojuegos son cultura.
+
+Hiyori se rio tanto que tuvo que apoyarse en una máquina cercana.
+
+—¡Otra partida! —exigió Touma.
+
+—¿Para qué? Ya hemos comprobado quién conduce mejor.
+
+—¡Eso no demuestra nada!
+
+—Claro. La máquina debe de estar conspirando contra ti.
+
+Aoi se acercó a la pantalla con curiosidad.
+
+—¿Puedo intentarlo?
+
+—¡Por supuesto! —dijo Touma, recuperando inmediatamente el entusiasmo—. Te enseñaré todos mis secretos.
+
+—¿Tus secretos para quedar último? —preguntó Itsuki.
+
+—Voy a recordar esto.
+
+Aoi ocupó el asiento libre.
+
+Al principio, condujo con cautela, observando el recorrido. En la segunda vuelta empezó a tomar las curvas con mayor precisión. En la última consiguió adelantar a Touma justo antes de la meta.
+
+Su coche terminó segundo.
+
+Touma se quedó mirando la pantalla.
+
+—Me niego a aceptar estos resultados.
+
+Aoi se apartó el cabello del rostro.
+
+—¿Por qué? ¿Quieres una revancha?
+
+—Quiero una investigación oficial.
+
+Itsuki recogió su mochila.
+
+—Yo puedo redactar el informe.
+
+—¡Tú estás suspendido de cualquier cargo de autoridad!
+
+Por primera vez en varios días, Itsuki no pensó en la universidad, en las tareas pendientes ni en el examen.
+
+Solo estaba allí, pasando una tarde absurda con sus amigos.
+
+Y le sentaba bien.
+
+Más tarde, mientras Touma intentaba convencer a Hiyori de que gastara sus monedas en una máquina de premios, Aoi se acercó a Itsuki.
+
+—Oye, ¿puedo preguntarte algo?
+
+—Depende. ¿Es sobre el examen?
+
+—No.
+
+—Entonces adelante.
+
+Ella señaló una máquina de música situada junto a la pared.
+
+—¿Quieres jugar una partida conmigo?
+
+Itsuki observó las flechas luminosas que recorrían la pantalla.
+
+—No sabía que te gustaban estos juegos.
+
+—No sabes muchas cosas de mí.
+
+La respuesta no sonó desagradable. Aun así, Itsuki se quedó pensando un momento.
+
+Tenía razón.
+
+Compartían clases, conocían a las mismas personas y habían conversado en varias ocasiones, pero casi siempre hablaban de asuntos cotidianos. Nunca habían tenido una conversación especialmente larga.
+
+—Supongo que no —admitió.
 
 Aoi sonrió.
 
-—Quizá un poco.
+—Entonces tendrás que descubrirlas.
 
-La conversación fluyó con más facilidad de lo que Itsuki esperaba. Hablaron de música, de las clases y de lo difícil que era encontrar tiempo libre cuando los trabajos parecían acumularse todos a la vez. No tuvo que preparar cada respuesta por adelantado. Por momentos, solo habló.
+Se colocó frente a la máquina y eligió una canción.
 
-Aoi lo observó con curiosidad mientras la música de otras máquinas llenaba el local.
+Itsuki la acompañó.
 
-—Tú sueles mirar y escuchar antes de hablar, ¿verdad?
+La primera partida fue un desastre. Se equivocó con varias secuencias y terminó mirando la pantalla como si esta hubiera cometido una ofensa personal.
 
-Itsuki se encogió ligeramente de hombros.
+Aoi se rio.
 
-—Supongo.
+—¡Creí que eras bueno en los juegos!
 
-—A veces cuesta saber qué estás pensando.
+—Lo soy.
 
-Él miró la pantalla, que ya había regresado al menú inicial.
+—Acabas de perder.
 
-—No siempre hay algo importante que decir.
+—Estoy estudiando el comportamiento del enemigo.
 
-Aoi reflexionó un instante antes de responder.
+—¿Y qué has descubierto?
 
-—El silencio no siempre es malo. Pero tampoco siempre es bueno.
+—Que es un enemigo despiadado.
 
-Itsuki volvió la mirada hacia ella. No sonaba como una crítica, sino como una idea que ella misma estaba intentando entender.
+Aoi volvió a reír.
 
-—Eso es justo —dijo.
+Jugaron una segunda partida. Esta vez Itsuki prestó más atención al ritmo y consiguió terminar sin equivocarse tanto.
 
-Aoi pareció querer añadir algo, pero sus amigos los llamaron desde el otro lado del salón. La conversación quedó ahí, sin una conclusión especial ni una promesa de volver a hablar del tema.
+Cuando acabaron, Aoi miró la puntuación y después a él.
 
-Y, de algún modo, eso hizo que el momento resultara natural.
+—Aprendes rápido.
 
-***
+—Solo necesitaba entender cómo funcionaba.
 
-A la hora de comer, el grupo ocupó una mesa en un restaurante concurrido. La conversación saltó de una anécdota a otra hasta que alguien recordó el trabajo universitario que tenían que preparar en equipo.
+—¿Siempre haces eso?
 
-Las opiniones se cruzaron. Una propuesta exigía demasiado tiempo; otra repartía las tareas de forma desigual. Touma intentó sugerir una solución que, según él, era brillante, pero terminó complicando aún más el plan.
+—¿Qué cosa?
 
-Itsuki escuchó sin interrumpir. Cuando todos hicieron una pausa, resumió las opciones y propuso una distribución que permitía que cada persona participara sin duplicar esfuerzos.
+—Observar primero. Hablar después.
 
-No hizo un discurso ni intentó imponerse. Fue poniendo cada idea en su sitio hasta que el grupo llegó a un acuerdo.
+Itsuki tardó un instante en responder.
 
-Aoi revisó lo que habían anotado.
+—Es más fácil entender las cosas cuando no estás hablando todo el tiempo.
 
-—Eso nos ahorra bastante tiempo. Gracias, Itsuki.
+Aoi inclinó ligeramente la cabeza.
 
-—Solo había que ordenar un poco las cosas.
+—Puede ser. Pero a veces, si no hablas, los demás no saben qué estás pensando.
 
-—Pues se te da bien.
+—Eso no siempre es malo.
 
-Touma levantó su vaso.
+—No. Pero tampoco siempre es bueno.
 
-—Brindo por nuestro coordinador no oficial.
+No había reproche en su voz. Solo una opinión sincera.
 
-Itsuki señaló el vaso de su amigo.
+Itsuki miró hacia el resto del grupo. Touma acababa de conseguir un pequeño muñeco en la máquina de premios y lo sostenía sobre su cabeza como si hubiera ganado un campeonato mundial.
 
-—No brindes por mí. Tú todavía tienes que pagar las bebidas.
+—Hay personas que hablan demasiado —dijo Itsuki.
 
-Touma bajó lentamente el brazo.
+—Y personas que hablan demasiado poco.
 
-—Creí que este grupo valoraba la amistad.
+—Parece que nos hemos reunido todas las categorías.
 
-—La valoramos —respondió Hiyori—. Por eso vamos a recordar tu deuda.
+Aoi sonrió.
 
-Las risas de la mesa hicieron que Touma fingiera una ofensa profunda. Aoi también se rio, y Itsuki se permitió disfrutar del momento sin preocuparse por encontrar una respuesta ingeniosa.
+—Quizá por eso nos llevamos bien.
 
-La tarde continuó entre juegos, comida y conversaciones sin demasiada importancia. No hubo una revelación que cambiara sus vidas ni una discusión que pusiera a prueba su amistad. Fue simplemente un día agradable, uno de esos que podían parecer insignificantes hasta que terminaban.
+Itsuki la miró.
 
-Cuando el grupo se separó cerca de la estación, Hiyori y Touma tomaron otra dirección. Itsuki se quedó unos pasos atrás con Aoi mientras los demás se despedían.
+Quiso responder algo ingenioso, pero no encontró ninguna frase que no sonara forzada.
 
-—Me lo he pasado bien hoy —dijo ella.
+Así que, por una vez, no intentó inventarla.
+
+—Quizá —dijo.
+
+Y continuaron jugando.
+
+Cuando llegó la hora de comer, el grupo se dirigió al restaurante que Hiyori había elegido.
+
+Se sentaron alrededor de una mesa larga y pidieron varios platos para compartir. Touma relató su derrota en las carreras como si hubiera sido víctima de una injusticia histórica, mientras Hiyori insistía en que nadie volvería a permitirle elegir las actividades durante al menos una semana.
+
+Aoi escuchaba la discusión, divertida.
+
+Itsuki comía tranquilamente.
+
+—Por cierto —dijo Hiyori—, la próxima semana tenemos que entregar el trabajo de la universidad. ¿Ya han decidido qué parte hará cada uno?
+
+Las quejas surgieron de inmediato.
+
+Alguien había olvidado las instrucciones. Otro no sabía cómo organizar sus apuntes. Touma anunció que tenía muchas ideas, aunque no pudo explicar ninguna de ellas con claridad.
+
+Itsuki dejó los palillos.
+
+—Podemos dividirlo en tres partes. Primero reunimos la información, luego comparamos los resultados y al final hacemos una conclusión conjunta. Si cada uno escribe por su cuenta, terminaremos con tres trabajos diferentes pegados en un mismo documento.
+
+El grupo guardó silencio un momento.
+
+—Eso… en realidad tiene sentido —dijo Hiyori.
+
+—Por supuesto que tiene sentido —respondió Touma—. Itsuki parece una persona funcional cuando se le da comida.
+
+—Retiro mi propuesta.
+
+—¡No puedes retirar una propuesta que ya ha salvado nuestro semestre!
+
+Aoi sacó su teléfono.
+
+—Voy a crear un documento compartido. Así podemos organizarnos hoy y no dejarlo para el último momento.
+
+—Una persona responsable —dijo Hiyori—. Qué alivio.
+
+Mientras los demás empezaban a repartir tareas, Itsuki volvió a comer.
+
+No necesitaba dirigir la conversación ni asegurarse de que todos reconocieran su aportación. Le bastaba con que el trabajo saliera bien.
+
+Al cabo de unos minutos, Aoi se inclinó hacia él.
+
+—Gracias por organizarlo.
+
+—Solo era cuestión de dividirlo.
+
+—Aun así, se te da bien.
+
+Itsuki bajó la mirada hacia su plato.
+
+—No es para tanto.
+
+Aoi no insistió.
+
+Y, curiosamente, eso hizo que el cumplido le resultara más fácil de aceptar.
+
+Salieron del restaurante cuando el sol comenzaba a descender.
+
+El grupo se detuvo frente a la estación para despedirse. Touma y Hiyori tomaron una dirección distinta, mientras los demás se dispersaban poco a poco.
+
+Itsuki comprobó la hora.
+
+Todavía podía llegar a casa antes de que oscureciera.
+
+—¡Amamiya!
+
+Se volvió.
+
+Aoi estaba unos pasos detrás de él.
+
+—¿Vas hacia la estación?
+
+—Sí.
 
 —Yo también.
 
-Aoi acomodó la correa de su bolsa en el hombro.
+Caminaron juntos.
 
-—Deberíamos repetirlo.
+Durante un rato hablaron del trabajo universitario, de las próximas clases y de la canción que habían jugado en los recreativos. La conversación era sencilla, sin silencios incómodos ni necesidad de encontrar un tema extraordinario.
 
-Itsuki tardó apenas un segundo en responder.
+Al llegar a la entrada de la estación, Aoi se detuvo.
+
+—Me lo he pasado bien hoy.
+
+Itsuki asintió.
+
+—Yo también.
+
+—Deberíamos hacerlo otra vez.
+
+Él sintió que la respuesta que quería dar se le quedaba atascada durante un instante. No quería sonar demasiado entusiasmado ni fingir indiferencia.
+
+Al final, decidió que podía decir simplemente la verdad.
 
 —Sí. Me gustaría.
 
-Ella sonrió antes de reunirse con los demás. Itsuki la observó alejarse un momento y luego se dirigió a su propia plataforma.
+Aoi sonrió.
 
-No había ocurrido nada extraordinario. No había resuelto ningún misterio ni descubierto algo nuevo sobre sí mismo. Pero el día le había recordado que su vida también estaba hecha de momentos sencillos: bromas, conversaciones y personas con las que podía sentirse cómodo sin tener que encontrar siempre las palabras perfectas.
+—Entonces nos vemos en la universidad.
 
-A veces, eso era suficiente.
+—Nos vemos.
 
----
+Ella se marchó hacia los andenes.
 
-## Nota editorial
+Itsuki permaneció unos segundos junto a la entrada, observando cómo la gente entraba y salía de la estación.
 
-Este capítulo desarrolla las relaciones cotidianas del grupo y la comodidad creciente entre Itsuki y Aoi. La salida no introduce una nueva pista sobrenatural, para que el misterio avance en los capítulos que realmente lo necesitan y la vida normal del protagonista conserve su propio espacio.
+Después se ajustó la mochila y emprendió el camino a casa.
+
+No había ocurrido nada extraordinario aquel día.
+
+Había perdido una partida, se había burlado de Touma, compartido una comida con sus amigos y conversado con una chica que le interesaba.
+
+Era una tarde corriente.
+
+Y, por eso mismo, le había gustado.
+
+A veces no hacía falta comprenderlo todo ni tener respuestas para cada cosa.
+
+A veces bastaba con encontrar un lugar en el que uno pudiera ser como era, sin tener que esforzarse por parecer alguien diferente.
+
+Itsuki todavía no sabía cuánto cambiaría su vida.
+
+Pero aquella tarde, al menos, había podido disfrutarla.
+
+Fin del capítulo 4.
