@@ -24,8 +24,8 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - [Capítulo 8 — El registro que falta](novela/capitulo-08-el-registro-que-falta.md): borrador narrativo actual.
 - [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.
 - [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad inicial.
-- [Resumen de continuidad de los capítulos 1–7](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-7.md): referencia de continuidad hasta el capítulo 7, con misterios abiertos y aclaración de la relación Itsuki–Aoi.
-- [Capítulo 8 — El registro que falta](novela/capitulo-08-el-registro-que-falta.md): nuevo borrador; la continuidad de los capítulos 1–8 se actualizará en el siguiente pase editorial.
+- [Resumen de continuidad de los capítulos 1–7](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-7.md): referencia histórica de continuidad hasta el capítulo 7.
+- [Resumen de continuidad de los capítulos 1–8](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-8.md): resumen actualizado, con la investigación municipal y los misterios abiertos del capítulo 8.
 
 - `novela/`: borradores y capítulos de la novela.
 - `manhwa/`: guiones de adaptación, episodios y notas visuales.
