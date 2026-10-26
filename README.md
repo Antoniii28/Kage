@@ -9,6 +9,7 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 ## Organización del proyecto
 
 - [Plan maestro](docs/PLAN_MAESTRO.md): etapas, método de trabajo y criterios de calidad.
+- [Registro de decisiones narrativas](docs/REGISTRO_DE_DECISIONES.md): decisiones aprobadas y asuntos pendientes.
 - `canon/`: hechos confirmados del mundo y la historia.
 - `personajes/`: fichas y arcos de personajes.
 - `trama/`: estructura general, cronología, arcos y misterios.
@@ -19,8 +20,10 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - [Capítulo 4 — Fuera de la rutina](novela/capitulo-04-fuera-de-la-rutina.md).
 - [Capítulo 5 — El lugar de la fotografía](novela/capitulo-05-el-lugar-de-la-fotografia.md): borrador narrativo actual.
 - [Capítulo 6 — Lo que espera entre las ruinas](novela/capitulo-06-lo-que-espera-entre-las-ruinas.md): borrador narrativo actual.
+- [Capítulo 7 — Un día que debía ser normal](novela/capitulo-07-un-dia-que-debia-ser-normal.md): borrador narrativo actual.
 - [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.
-- [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad mientras se revisan los manuscritos.
+- [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad inicial.
+- [Resumen de continuidad de los capítulos 1–7](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-7.md): referencia ampliada, con misterios abiertos y aclaración de la relación Itsuki–Aoi.
 
 - `novela/`: borradores y capítulos de la novela.
 - `manhwa/`: guiones de adaptación, episodios y notas visuales.
