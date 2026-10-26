@@ -18,6 +18,7 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - [Capítulo 3 — Una fotografía incompleta](novela/capitulo-03-una-fotografia-incompleta.md).
 - [Capítulo 4 — Fuera de la rutina](novela/capitulo-04-fuera-de-la-rutina.md).
 - [Capítulo 5 — El lugar de la fotografía](novela/capitulo-05-el-lugar-de-la-fotografia.md): borrador narrativo actual.
+- [Capítulo 6 — Lo que espera entre las ruinas](novela/capitulo-06-lo-que-espera-entre-las-ruinas.md): borrador narrativo actual.
 - [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.
 - [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad mientras se revisan los manuscritos.
 
