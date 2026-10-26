@@ -22,10 +22,12 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - [Capítulo 6 — Lo que espera entre las ruinas](novela/capitulo-06-lo-que-espera-entre-las-ruinas.md): borrador narrativo actual.
 - [Capítulo 7 — Un día que debía ser normal](novela/capitulo-07-un-dia-que-debia-ser-normal.md): borrador narrativo actual.
 - [Capítulo 8 — El registro que falta](novela/capitulo-08-el-registro-que-falta.md): borrador narrativo actual.
+- [Capítulo 9 — Una visita inesperada](novela/capitulo-09-una-visita-inesperada.md): borrador narrativo actual; presenta a Ren sin revelar su identidad ni sus motivos.
 - [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.
 - [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad inicial.
 - [Resumen de continuidad de los capítulos 1–7](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-7.md): referencia histórica de continuidad hasta el capítulo 7.
-- [Resumen de continuidad de los capítulos 1–8](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-8.md): resumen actualizado, con la investigación municipal y los misterios abiertos del capítulo 8.
+- [Resumen de continuidad de los capítulos 1–8](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-8.md): referencia histórica de continuidad hasta el capítulo 8.
+- [Resumen de continuidad de los capítulos 1–9](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-9.md): resumen actualizado con el encuentro con Ren y los nuevos misterios del capítulo 9.
 
 - `novela/`: borradores y capítulos de la novela.
 - `manhwa/`: guiones de adaptación, episodios y notas visuales.
