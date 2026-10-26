@@ -1,4 +1,4 @@
-# KAGE — Resumen de continuidad de los capítulos 1–7
+# KAGE — Resumen de continuidad de los capítulos 1–8
 
 > Documento de apoyo para conservar la continuidad. No sustituye los manuscritos completos. Las interpretaciones no confirmadas se mantienen como preguntas y no como hechos del mundo.
 
@@ -48,3 +48,21 @@ Itsuki intenta retomar su rutina universitaria. Touma nota que está distraído,
 - La identidad de la joven del santuario, la naturaleza de la voz, el símbolo, la figura de la calle y los remitentes anónimos siguen abiertos.
 - El mensaje «busca el registro de la puerta» es una pista, no una prueba de que exista un documento con ese nombre exacto ni de que el remitente sea confiable.
 - Cada capítulo debe mover la historia hacia delante, desarrollar personajes y dejar una pregunta o consecuencia que haga natural continuar. Los misterios deben evolucionar gradualmente y las hipótesis no deben presentarse como hechos.
+
+
+## Capítulo 8 — El registro que falta
+
+Itsuki acude a la oficina municipal con una referencia de expediente relacionada con la intervención en el santuario. Le explican que el expediente no está completamente digitalizado y que parte de la documentación fue transferida al archivo histórico local. Podría existir un libro de control asociado a la inspección, pero todavía no se confirma su existencia ni su disponibilidad. Itsuki presenta una solicitud formal para localizar el expediente de transferencia y recibe un número de seguimiento; el personal no le revela si otras personas han solicitado los mismos documentos.
+
+Touma nota que Itsuki continúa preocupado y le ofrece ayuda sin exigirle que revele toda la historia. Itsuki admite que investiga algo que aún no comprende y acepta que puede pedirle ayuda más adelante. Su confianza crece de manera gradual, sin que Itsuki le cuente todavía los detalles completos.
+
+Al volver a casa, Itsuki separa lo confirmado de las preguntas abiertas. Sabe que el recinto fue cerrado y recibió una intervención posterior, que existe una referencia municipal y que parte de los documentos se transfirió. Todavía no sabe si existe el libro de control, quién autorizó la intervención, qué documentos sobrevivieron ni si el correo anónimo se refería a ese registro. Decide esperar la respuesta oficial antes de acercarse otra vez al santuario.
+
+### Nuevos pasos y misterios abiertos
+
+- La solicitud municipal tiene un número de seguimiento; la respuesta puede llevar tiempo.
+- El archivo histórico local podría conservar documentación relevante, pero aún no se ha comprobado qué contiene.
+- El supuesto libro de control de acceso es una posibilidad mencionada por la empleada, no un hecho confirmado.
+- No se sabe quién envió el correo anónimo ni si pretende ayudar, manipular o desviar a Itsuki.
+- La pregunta final queda abierta: ¿por qué alguien quería que Itsuki buscara ese registro?
+
