@@ -21,9 +21,11 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - [Capítulo 5 — El lugar de la fotografía](novela/capitulo-05-el-lugar-de-la-fotografia.md): borrador narrativo actual.
 - [Capítulo 6 — Lo que espera entre las ruinas](novela/capitulo-06-lo-que-espera-entre-las-ruinas.md): borrador narrativo actual.
 - [Capítulo 7 — Un día que debía ser normal](novela/capitulo-07-un-dia-que-debia-ser-normal.md): borrador narrativo actual.
+- [Capítulo 8 — El registro que falta](novela/capitulo-08-el-registro-que-falta.md): borrador narrativo actual.
 - [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.
 - [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad inicial.
-- [Resumen de continuidad de los capítulos 1–7](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-7.md): referencia ampliada, con misterios abiertos y aclaración de la relación Itsuki–Aoi.
+- [Resumen de continuidad de los capítulos 1–7](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-7.md): referencia de continuidad hasta el capítulo 7, con misterios abiertos y aclaración de la relación Itsuki–Aoi.
+- [Capítulo 8 — El registro que falta](novela/capitulo-08-el-registro-que-falta.md): nuevo borrador; la continuidad de los capítulos 1–8 se actualizará en el siguiente pase editorial.
 
 - `novela/`: borradores y capítulos de la novela.
 - `manhwa/`: guiones de adaptación, episodios y notas visuales.
