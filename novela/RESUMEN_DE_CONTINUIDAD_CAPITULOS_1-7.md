@@ -24,7 +24,7 @@ Itsuki sale con Touma, Hiyori, Aoi y otros amigos. El grupo juega en un salón r
 
 ## Capítulo 5 — El lugar de la fotografía
 
-Itsuki sigue la pista de la fotografía hasta un santuario abandonado. La investigación deja de ser solo una búsqueda de contexto para la imagen y lo acerca a un lugar que parece conectado con sucesos extraños. La visita aumenta el misterio, pero no confirma qué representa la fotografía ni cuál es el vínculo con el amuleto. Consultar el manuscrito completo para detalles de escena.
+Itsuki compara la fotografía de los ocho niños con una imagen antigua de un blog local y reconoce un arco de piedra perteneciente a un santuario abandonado. Va al lugar pese al letrero de propiedad cerrada. Allí encuentra a una joven desconocida y a un hombre cuyo comportamiento resulta anómalo. El hombre intenta atacarlos y parece aparecer al otro lado del patio sin recorrer la distancia necesaria. Antes de huir, le dice a Itsuki: «Tú no deberías estar aquí» y parece fijarse en él y en el amuleto. Durante la huida, la fotografía desaparece del bolsillo de Itsuki. El capítulo termina con su decisión de regresar al día siguiente. No se confirma quién es el hombre, qué le ocurre ni por qué reconoce algo en Itsuki o en el amuleto.
 
 ## Capítulo 6 — Lo que espera entre las ruinas
 
