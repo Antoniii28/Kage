@@ -40,6 +40,17 @@ Usar este archivo para conservar decisiones importantes y evitar que una idea pr
 - **Decisión del autor:** confirmar nombre, diseño y capacidades.
 - **Consecuencias:** ficha de Aoi, escenas de combate y referencias visuales.
 
+## Decisiones aprobadas
+
+### DEC-005 — Relación de Itsuki con Aoi y pareja definitiva
+- **Fecha:** 2026-10-25
+- **Tema:** arco afectivo de Itsuki y continuidad de Aoi Mizunagi.
+- **Estado:** Aprobada
+- **Opciones consideradas:** convertir a Aoi en pareja definitiva o mantenerla como interés/atracción inicial que no culmina en esa relación.
+- **Decisión del autor:** Aoi **no** es la pareja definitiva de Itsuki. En el capítulo 2, Itsuki se siente atraído por ella o empieza a gustarle, se pone nervioso a su alrededor y Touma lo nota; sin embargo, el texto dice expresamente que Itsuki no está enamorado y ni siquiera está seguro de si aquello puede llamarse gustar de alguien. La relación podrá evolucionar como amistad, compañerismo y respeto, sin forzar que se convierta en romance. La pareja definitiva es otra chica que el autor ya había aclarado previamente, pero cuyo nombre, apariencia y desarrollo aún no deben inventarse ni añadirse sin revisar lo acordado con el autor.
+- **Consecuencias:** mantener la atracción inicial de Itsuki hacia Aoi en los capítulos 2–4; evitar diálogos o narración que la describan como su amor definitivo; avisar al autor cuando la futura pareja necesite entrar en escena para desarrollar su ficha antes de introducirla. No modificar los capítulos anteriores solo para borrar una atracción que ya está establecida.
+- **Motivo:** conservar la continuidad ya escrita y respetar el desenlace romántico previsto por el autor.
+
 ## Historial
 
-Todavía no hay decisiones marcadas como aprobadas en este registro. Añadir una entrada aprobada solo después de que el autor la confirme explícitamente.
+DEC-005 es la primera decisión registrada explícitamente como aprobada. Las decisiones abiertas y provisionales siguen pendientes de confirmación; no deben tratarse como canon definitivo.
