@@ -23,11 +23,13 @@ Construir una historia coherente y emocionalmente potente, con un canon document
 - [Capítulo 7 — Un día que debía ser normal](novela/capitulo-07-un-dia-que-debia-ser-normal.md): borrador narrativo actual.
 - [Capítulo 8 — El registro que falta](novela/capitulo-08-el-registro-que-falta.md): borrador narrativo actual.
 - [Capítulo 9 — Una visita inesperada](novela/capitulo-09-una-visita-inesperada.md): borrador narrativo actual; presenta a Ren sin revelar su identidad ni sus motivos.
-- [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos y transiciones.
+- [Capítulo 10 — Lo que sí puede comprobarse](novela/capitulo-10-lo-que-si-puede-comprobarse.md): Itsuki acepta que Touma lo acompañe al archivo histórico; aparece una ausencia en el inventario que aún no puede interpretarse.
+- [Guía de formato narrativo](novela/GUIA_DE_FORMATO_NARRATIVO.md): reglas para diálogos, acciones, pensamientos, ritmo y control de repeticiones.
 - [Resumen de continuidad de los capítulos 1–4](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-4.md): referencia de continuidad inicial.
 - [Resumen de continuidad de los capítulos 1–7](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-7.md): referencia histórica de continuidad hasta el capítulo 7.
 - [Resumen de continuidad de los capítulos 1–8](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-8.md): referencia histórica de continuidad hasta el capítulo 8.
-- [Resumen de continuidad de los capítulos 1–9](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-9.md): resumen actualizado con el encuentro con Ren y los nuevos misterios del capítulo 9.
+- [Resumen de continuidad de los capítulos 1–9](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-9.md): referencia histórica hasta el capítulo 9.
+- [Resumen de continuidad de los capítulos 1–10](novela/RESUMEN_DE_CONTINUIDAD_CAPITULOS_1-10.md): continuidad actualizada con la consulta al archivo histórico y la colaboración de Touma.
 
 - `novela/`: borradores y capítulos de la novela.
 - `manhwa/`: guiones de adaptación, episodios y notas visuales.
