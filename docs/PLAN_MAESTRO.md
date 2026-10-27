@@ -50,6 +50,7 @@ Para cada capítulo:
 - Revisión estructural: trama, causalidad, arcos y desenlace.
 - Revisión por personaje: motivaciones, voz y coherencia.
 - Revisión de escenas: tensión, claridad espacial y ritmo.
+- Revisión de repetición: recortar pensamientos, recapitulaciones y cierres que repitan información o emociones sin aportar cambio.
 - Revisión de estilo y corrección lingüística.
 - Lectura de continuidad de principio a fin.
 
